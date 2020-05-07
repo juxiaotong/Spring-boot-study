@@ -1,0 +1,315 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </select>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="413b64bd-5499-483b-bc02-e6fc622c93b9" name="Default Changelist" comment="第一次提交（没有数据库处理数据的代码）">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RESET_MODE" value="MIXED" />
+  </component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="hiddenUrls">
+      <set>
+        <option value="git@github.com:juxiaotong/Spring-boot-study.git" />
+      </set>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$PROJECT_DIR$/../../huanJingPeiZhi/apache-maven-3.6.3" />
+        <option name="userSettingsFile" value="E:\m2\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1bLeavsAACes6sVJjrCAJG17tSZ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../spring-boot-mybatis" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\Code\springboot-study2\src\main\resources\templates\employee" />
+      <recent name="E:\Code\springboot-study2\src\main\resources\templates" />
+      <recent name="E:\Code\springboot-study2\src\main\resources\static" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\Code\springboot-study2\src\main\resources\mybatis\mapper" />
+      <recent name="E:\Code\springboot-study2\src\main\resources\mybatis1\mapper" />
+      <recent name="E:\Code\springboot-study2\src\main\resources\mybatis\mapper\mapper" />
+      <recent name="E:\Code\springboot-study2\src\main\resources\mybatis" />
+      <recent name="E:\Code\springboot-study2\src\main\resources\templates\employee" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Spring Boot.SpringbootStudy2Application">
+    <configuration name="SpringbootStudy2ApplicationTests.contextLoads" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="springboot-study2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.jxt.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.jxt" />
+      <option name="MAIN_CLASS_NAME" value="com.jxt.SpringbootStudy2ApplicationTests" />
+      <option name="METHOD_NAME" value="contextLoads" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringbootStudy2Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="springboot-study2" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.jxt.SpringbootStudy2Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.SpringbootStudy2ApplicationTests.contextLoads" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="413b64bd-5499-483b-bc02-e6fc622c93b9" name="Default Changelist" comment="" />
+      <created>1588415867181</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1588415867181</updated>
+      <workItem from="1588415876188" duration="4966000" />
+      <workItem from="1588472504961" duration="6657000" />
+      <workItem from="1588515850154" duration="5466000" />
+      <workItem from="1588594941889" duration="9653000" />
+      <workItem from="1588733003453" duration="945000" />
+      <workItem from="1588756920325" duration="1588000" />
+      <workItem from="1588758542998" duration="3169000" />
+      <workItem from="1588774369107" duration="5030000" />
+      <workItem from="1588813673059" duration="11915000" />
+    </task>
+    <task id="LOCAL-00001" summary="第一次提交（没有数据库处理数据的代码）">
+      <created>1588757572714</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1588757572714</updated>
+    </task>
+    <task id="LOCAL-00002" summary="gitee 提交">
+      <created>1588759521214</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1588759521214</updated>
+    </task>
+    <task id="LOCAL-00003" summary="gitee 提交">
+      <created>1588760537595</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1588760537595</updated>
+    </task>
+    <task id="LOCAL-00004" summary="第二次提交，properties文件替换为yml文件">
+      <created>1588776142660</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1588776142660</updated>
+    </task>
+    <task id="LOCAL-00005" summary="第三次提交，整合mybatis">
+      <created>1588779316310</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1588779316310</updated>
+    </task>
+    <task id="LOCAL-00006" summary="第四次提交，整合Mybatis完成。练习结束">
+      <created>1588824639280</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1588824639280</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_NEW_TODO" value="false" />
+    <MESSAGE value="第一次提交（没有数据库处理数据的代码）" />
+    <MESSAGE value="gitee 提交" />
+    <MESSAGE value="第二次提交，properties文件替换为yml文件" />
+    <MESSAGE value="第三次提交，整合mybatis" />
+    <MESSAGE value="第四次提交，整合Mybatis完成。练习结束" />
+    <option name="LAST_COMMIT_MESSAGE" value="第四次提交，整合Mybatis完成。练习结束" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="462" y="212" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1588472911212">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="462" y="212" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.824@0.0.1536.824" timestamp="1588472911212" />
+    <state x="574" y="117" key="#com.intellij.ide.util.MemberChooser" timestamp="1588824247360">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="574" y="117" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1588824247360" />
+    <state x="499" y="158" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1588815336559">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="499" y="158" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.824@0.0.1536.824" timestamp="1588815336559" />
+    <state x="-6" y="0" width="781" height="830" key="DiffContextDialog" timestamp="1588816445119">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="-6" y="0" width="781" height="830" key="DiffContextDialog/0.0.1536.824@0.0.1536.824" timestamp="1588816445119" />
+    <state x="549" y="166" key="FileChooserDialogImpl" timestamp="1588819760359">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="166" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1588819760359" />
+    <state width="1493" height="435" key="GridCell.Tab.0.bottom" timestamp="1588846204914">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="435" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1588846204914" />
+    <state width="1493" height="435" key="GridCell.Tab.0.center" timestamp="1588846204914">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="435" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1588846204914" />
+    <state width="1493" height="435" key="GridCell.Tab.0.left" timestamp="1588846204914">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="435" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1588846204914" />
+    <state width="1493" height="435" key="GridCell.Tab.0.right" timestamp="1588846204914">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="435" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1588846204914" />
+    <state width="1493" height="435" key="GridCell.Tab.1.bottom" timestamp="1588846204915">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="435" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1588846204915" />
+    <state width="1493" height="435" key="GridCell.Tab.1.center" timestamp="1588846204914">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="435" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1588846204914" />
+    <state width="1493" height="435" key="GridCell.Tab.1.left" timestamp="1588846204914">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="435" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1588846204914" />
+    <state width="1493" height="435" key="GridCell.Tab.1.right" timestamp="1588846204915">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="435" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1588846204915" />
+    <state x="270" y="0" key="SettingsEditor" timestamp="1588776673769">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="270" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1588776673769" />
+    <state x="584" y="324" key="VCS.ChangelistChooser" timestamp="1588759223611">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="584" y="324" key="VCS.ChangelistChooser/0.0.1536.824@0.0.1536.824" timestamp="1588759223611" />
+    <state x="540" y="239" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1588416393079">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="540" y="239" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1536.824@0.0.1536.824" timestamp="1588416393079" />
+    <state x="178" y="72" key="new project wizard" timestamp="1588818771165">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="178" y="72" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1588818771165" />
+    <state x="425" y="187" key="run.anything.popup" timestamp="1588817389110">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="425" y="187" key="run.anything.popup/0.0.1536.824@0.0.1536.824" timestamp="1588817389110" />
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1588520641000">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1588520641000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/jxt/SpringbootStudy2Application.java</url>
+          <line>6</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

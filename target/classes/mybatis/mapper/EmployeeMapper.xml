@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper
+        PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+        "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+
+<mapper namespace="com.jxt.dao.EmployeeMapper">
+
+    <resultMap id="EmployeeMap" type="Employee">
+        <id property="id" column="eid"/>
+        <result property="lastName" column="lastName"/>
+        <result property="email" column="email"/>
+        <result property="gender" column="gender"/>
+        <result property="birthday" column="birthday"/>
+        <result property="department" column="departmentId"/>
+        <association property="eDepartment"  javaType="Department">
+            <id property="id" column="did"/>
+            <result property="name" column="dname"/>
+        </association>
+    </resultMap>
+
+    <select id="getEmployees" resultMap="EmployeeMap">
+        select e.id as eid,lastName,email,gender,birthday,d.id as did,d.name as dname
+        from department d,employee e
+        where d.id = e.departmentId
+    </select>
+
+    <insert id="save" parameterType="Employee">
+        insert into employee (lastName,email,gender,departmentId,birthday)
+        values (#{lastName},#{email},#{gender},#{department},#{birthday});
+    </insert>
+    <update id="update" parameterType="Employee" >
+        update  employee set lastName = #{lastName},email = #{email},gender = #{gender},
+        departmentId = #{department},birthday = #{birthday} where id = #{id}
+    </update>
+
+    <select id="get" resultType="Employee">
+        select * from employee where id = #{id}
+    </select>
+
+    <delete id="delete" parameterType="int">
+        delete from employee where id = #{id}
+    </delete>
+
+
+</mapper>
