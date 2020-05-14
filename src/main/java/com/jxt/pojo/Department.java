@@ -1,7 +1,7 @@
 package com.jxt.pojo;
 
 
-import org.apache.ibatis.type.Alias;
+
 
 public class Department {
     private String name;
